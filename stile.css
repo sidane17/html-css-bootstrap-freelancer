@@ -1,0 +1,59 @@
+*{
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(44, 62, 80);
+    color: white;
+}
+main{
+    background-color:rgb(26, 188, 156);
+    color: white;
+}
+.s1{
+    height:fit-content;
+}
+.s2{
+    background-color: white;
+    height:fit-content;
+    color: black;
+}
+.s3{
+    height: fit-content;
+    background-color:rgb(26, 188, 156);
+    color: white;
+}
+.s4{
+    height: fit-content;
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.form{
+    height: 20rem;
+}
+input ,textarea{
+    border: none;
+}
+input{
+    height: 100%;
+}
+.b_form{
+    height: 2rem;
+    border-radius: 5px;
+}
+.s5{
+    padding-top: 1rem;
+    height: fit-content;
+    background-color: rgb(58, 84, 109);
+    color: white;
+}
+.cerchio{
+    width: 3rem;
+    height: 3rem;
+}
+.s6{
+    padding-top: 1rem;
+    height: fit-content;
+    background-color:rgb(44, 62, 80);
+    color: white;
+}
+
